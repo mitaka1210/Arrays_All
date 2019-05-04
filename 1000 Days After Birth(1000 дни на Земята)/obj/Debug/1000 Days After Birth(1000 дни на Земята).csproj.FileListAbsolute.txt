@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\bin\Debug\1000 Days After Birth(1000 дни на Земята).exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\bin\Debug\1000 Days After Birth(1000 дни на Земята).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\bin\Debug\1000 Days After Birth(1000 дни на Земята).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\obj\Debug\1000 Days After Birth(1000 дни на Земята).csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\obj\Debug\1000 Days After Birth(1000 дни на Земята).csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\obj\Debug\1000 Days After Birth(1000 дни на Земята).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\1000 Days After Birth(1000 дни на Земята)\obj\Debug\1000 Days After Birth(1000 дни на Земята).pdb

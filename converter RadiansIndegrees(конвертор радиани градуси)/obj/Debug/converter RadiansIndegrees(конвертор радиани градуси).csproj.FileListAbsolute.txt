@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\bin\Debug\converter RadiansIndegrees(конвертор радиани градуси).exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\bin\Debug\converter RadiansIndegrees(конвертор радиани градуси).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\bin\Debug\converter RadiansIndegrees(конвертор радиани градуси).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\obj\Debug\converter RadiansIndegrees(конвертор радиани градуси).csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\obj\Debug\converter RadiansIndegrees(конвертор радиани градуси).csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\obj\Debug\converter RadiansIndegrees(конвертор радиани градуси).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\converter RadiansIndegrees(конвертор радиани градуси)\obj\Debug\converter RadiansIndegrees(конвертор радиани градуси).pdb

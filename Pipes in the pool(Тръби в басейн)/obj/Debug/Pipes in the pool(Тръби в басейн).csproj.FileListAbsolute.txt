@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\bin\Debug\Pipes in the pool(Тръби в басейн).exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\bin\Debug\Pipes in the pool(Тръби в басейн).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\bin\Debug\Pipes in the pool(Тръби в басейн).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\obj\Debug\Pipes in the pool(Тръби в басейн).csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\obj\Debug\Pipes in the pool(Тръби в басейн).csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\obj\Debug\Pipes in the pool(Тръби в басейн).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Pipes in the pool(Тръби в басейн)\obj\Debug\Pipes in the pool(Тръби в басейн).pdb

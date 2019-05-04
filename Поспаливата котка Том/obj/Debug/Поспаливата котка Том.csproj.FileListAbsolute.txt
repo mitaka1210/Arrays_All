@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.pdb

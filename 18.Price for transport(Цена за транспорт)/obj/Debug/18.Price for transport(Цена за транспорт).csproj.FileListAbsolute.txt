@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\bin\Debug\18.Price for transport(Цена за транспорт).exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\bin\Debug\18.Price for transport(Цена за транспорт).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\bin\Debug\18.Price for transport(Цена за транспорт).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\obj\Debug\18.Price for transport(Цена за транспорт).csprojResolveAssemblyReference.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\obj\Debug\18.Price for transport(Цена за транспорт).csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\obj\Debug\18.Price for transport(Цена за транспорт).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\18.Price for transport(Цена за транспорт)\obj\Debug\18.Price for transport(Цена за транспорт).pdb

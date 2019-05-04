@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\bin\Debug\currency converter(BGN USD EUR GBP).exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\bin\Debug\currency converter(BGN USD EUR GBP).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\bin\Debug\currency converter(BGN USD EUR GBP).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\obj\Debug\currency converter(BGN USD EUR GBP).csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\obj\Debug\currency converter(BGN USD EUR GBP).exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\obj\Debug\currency converter(BGN USD EUR GBP).pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter(BGN USD EUR GBP)\obj\Debug\currency converter(BGN USD EUR GBP).csprojResolveAssemblyReference.cache

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "converter RadiansIndegrees(конвертор радиани градуси)", "converter RadiansIndegrees(конвертор радиани градуси)\converter RadiansIndegrees(конвертор радиани градуси).csproj", "{69F2A35F-ACD0-4894-B21E-C2E3A897871A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currency converter USD to BGN", "currency converter USD to BGN\currency converter USD to BGN.csproj", "{19BDF6A1-7560-4C53-9520-9E3FFED18D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currency converter(BGN USD EUR GBP)", "currency converter(BGN USD EUR GBP)\currency converter(BGN USD EUR GBP).csproj", "{B1162224-1E2C-40BC-AD18-B3978ED7028D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000 Days After Birth(1000 дни на Земята)", "1000 Days After Birth(1000 дни на Земята)\1000 Days After Birth(1000 дни на Земята).csproj", "{9C7B996D-CD00-4B18-9881-481BF7EDA52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Price for transport(Цена за транспорт)", "18.Price for transport(Цена за транспорт)\18.Price for transport(Цена за транспорт).csproj", "{582762F5-1345-43A0-B0C8-C6D3D87B4E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes in the pool(Тръби в басейн)", "Pipes in the pool(Тръби в басейн)\Pipes in the pool(Тръби в басейн).csproj", "{3C555577-A055-4904-83C5-26B790312AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поспаливата котка Том", "Поспаливата котка Том\Поспаливата котка Том.csproj", "{0E29F02D-17F8-4836-B596-14363B175422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F2A35F-ACD0-4894-B21E-C2E3A897871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F2A35F-ACD0-4894-B21E-C2E3A897871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F2A35F-ACD0-4894-B21E-C2E3A897871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F2A35F-ACD0-4894-B21E-C2E3A897871A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BDF6A1-7560-4C53-9520-9E3FFED18D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BDF6A1-7560-4C53-9520-9E3FFED18D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BDF6A1-7560-4C53-9520-9E3FFED18D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BDF6A1-7560-4C53-9520-9E3FFED18D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1162224-1E2C-40BC-AD18-B3978ED7028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1162224-1E2C-40BC-AD18-B3978ED7028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1162224-1E2C-40BC-AD18-B3978ED7028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1162224-1E2C-40BC-AD18-B3978ED7028D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B996D-CD00-4B18-9881-481BF7EDA52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B996D-CD00-4B18-9881-481BF7EDA52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B996D-CD00-4B18-9881-481BF7EDA52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B996D-CD00-4B18-9881-481BF7EDA52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582762F5-1345-43A0-B0C8-C6D3D87B4E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582762F5-1345-43A0-B0C8-C6D3D87B4E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582762F5-1345-43A0-B0C8-C6D3D87B4E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582762F5-1345-43A0-B0C8-C6D3D87B4E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C555577-A055-4904-83C5-26B790312AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C555577-A055-4904-83C5-26B790312AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C555577-A055-4904-83C5-26B790312AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C555577-A055-4904-83C5-26B790312AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E29F02D-17F8-4836-B596-14363B175422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E29F02D-17F8-4836-B596-14363B175422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E29F02D-17F8-4836-B596-14363B175422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E29F02D-17F8-4836-B596-14363B175422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563380BA-654C-4983-98F2-93BE770264C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\bin\Debug\currency converter USD to BGN.exe.config
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\bin\Debug\currency converter USD to BGN.exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\bin\Debug\currency converter USD to BGN.pdb
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\obj\Debug\currency converter USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\obj\Debug\currency converter USD to BGN.exe
+C:\Users\dimit\source\repos\Programming Basics with-март 2018\currency converter USD to BGN\obj\Debug\currency converter USD to BGN.pdb
